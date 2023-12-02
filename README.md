@@ -4,4 +4,6 @@ and we will see how well the pretrained models actually perform, which makes the
 
 Moreover, the accuaracy of the pretrained models is so high that practically no fine-tuning is required.
 
-We have attached the relevant datasets, please take a look at them as well. 
+We have attached the relevant dataset in the google drive link below.
+
+https://drive.google.com/drive/folders/1KM7YWeeqyuUMlO54cNhLZo6L8yWP_dXa?usp=drive_link
